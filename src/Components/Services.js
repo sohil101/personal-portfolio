@@ -18,7 +18,7 @@ const Services = () => {
         />
         <ServiceBox
           iconClass="bx bx-mobile"
-          title="Mobile Apps"
+          title="Responsive web"
           description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure labore tenetur ab consectetur. Quis unde minima cum. Architecto, molestiae modi."
         />
       </div>

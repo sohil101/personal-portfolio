@@ -1,5 +1,5 @@
 import React from "react";
-import img2 from "../Images/pic.png";
+import img2 from "../Images/SK_PIC_1-removebg-preview.png";
 
 const About = () => {
   return (

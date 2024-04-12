@@ -23,8 +23,8 @@ const Typetext = () => {
     const typed = new Typed(".multiple-text", {
       strings: [
         "Frontend Developer",
+        "Backend Developer",
         "Full Stack Developer",
-        "Android App Developer",
       ],
       typeSpeed: 100,
       backSpeed: 100,
