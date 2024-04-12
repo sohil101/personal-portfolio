@@ -9,17 +9,17 @@ const Services = () => {
         <ServiceBox
           iconClass="bx bx-code"
           title="Web Development"
-          description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure labore tenetur ab consectetur. Quis unde minima cum. Architecto, molestiae modi."
+          description="Bringing your vision to life with meticulously crafted websites that blend creativity, functionality, and user experience seamlessly."
         />
         <ServiceBox
           iconClass="bx bx-paint"
           title="UI/UX Design"
-          description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure labore tenetur ab consectetur. Quis unde minima cum. Architecto, molestiae modi."
+          description="From wireframes to pixel-perfect designs, I specialize in creating intuitive and visually appealing interfaces that captivate users and enhance usability."
         />
         <ServiceBox
           iconClass="bx bx-mobile"
-          title="Responsive web"
-          description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure labore tenetur ab consectetur. Quis unde minima cum. Architecto, molestiae modi."
+          title="Java Development"
+          description="Harness the power of Java to develop high-performance backend solutions, including RESTful APIs, database integration, and server-side logic, ensuring seamless functionality and reliability."
         />
       </div>
     </section>
