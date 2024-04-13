@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react';
-import img1 from  ".././Images/SK_PIC_1-removebg-preview.png"
+import img1 from  ".././Images/pic.png"
 const Home = () => {
   return (
     <section className="home" id="home">
