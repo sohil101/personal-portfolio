@@ -3,7 +3,7 @@ import img2 from "../Images/Myntra.png"
 import img3 from "../Images/Rat in a maze.png"
 import img4 from "../Images/Snake Game.png"
 import img5 from "../Images/Dad joke Generater.png"
-import img6 from "../Images/Tinder Clone.png"
+import img6 from "../Images/Expense-Tracker.png"
 import img7 from "../Images/NGO.png"
 import PortfolioItem from './PortfolioItem';
 
@@ -40,7 +40,7 @@ const Portfolio = () => {
           image={img6}
           title="Project 5"
           description="Tinder-Clone."
-          id="https://tinderclone-html.netlify.app"
+          id="https://exprense-tracker.vercel.app/"
         />
         <PortfolioItem
           image={img7}
