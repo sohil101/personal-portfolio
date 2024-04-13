@@ -19,7 +19,7 @@ const Services = () => {
         <ServiceBox
           iconClass="bx bx-mobile"
           title="Java Development"
-          description="Harness the power of Java to develop high-performance backend solutions, including RESTful APIs, database integration, and server-side logic, ensuring seamless functionality and reliability."
+          description="Harness the power of Java to develop high-performance backend solutions and server-side logic, ensuring seamless functionality and reliability."
         />
       </div>
     </section>
