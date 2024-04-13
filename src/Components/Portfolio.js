@@ -12,31 +12,37 @@ const Portfolio = () => {
           image={img3}
           title="Project 1"
           description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, molestias."
+          id="https://dad-joke-genrator.netlify.app"
         />
         <PortfolioItem
           image={img4}
           title="Project 2"
           description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, molestias."
+          id="#ViewProject"
         />
         <PortfolioItem
           image={img3}
           title="Project 3"
           description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, molestias."
+          id="#ViewProject"
         />
         <PortfolioItem
           image={img4}
           title="Project 4"
           description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, molestias."
+          id="#ViewProject"
         />
         <PortfolioItem
           image={img3}
           title="Project 5"
           description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, molestias."
+          id="#ViewProject"
         />
         <PortfolioItem
           image={img4}
           title="Project 6"
           description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, molestias."
+          id="#ViewProject"
         />
       </div>
     </section>
