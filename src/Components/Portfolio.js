@@ -39,7 +39,7 @@ const Portfolio = () => {
         <PortfolioItem
           image={img6}
           title="Project 5"
-          description="Tinder-Clone."
+          description="Expence Tracker."
           id="https://exprense-tracker.vercel.app/"
         />
         <PortfolioItem

@@ -15,7 +15,7 @@ const Home = () => {
           <a href="https://github.com/Sohil101"><i className='bx bxl-github'></i></a>
           <a href="https://www.linkedin.com/in/sohil101/"><i className='bx bxl-linkedin'></i></a>
         </div>
-        <a href="https://drive.google.com/file/d/13U0r9wl704MB3faULJq0XwbRz9SmqYJU/view?usp=sharing" className="btn">Download CV</a>
+        <a href="https://drive.google.com/file/d/1o7uTCOEpWkCtPDfyzUlTS2Z0Qx7_o6KI/view?usp=sharing" className="btn">Download CV</a>
       </div>
       <div className="home-img">
         <img src={img1} alt="profile" />
